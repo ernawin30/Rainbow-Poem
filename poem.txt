@@ -1,4 +1,11 @@
 The Rainbow
 
-VIBGYOR
-Noting changed.
+Violet
+Indigo
+Blue
+Green
+Yellow
+Orange
+Red
+
+Added colors to the rainbow.
